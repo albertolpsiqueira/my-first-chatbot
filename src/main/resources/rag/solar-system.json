@@ -1,0 +1,56 @@
+{
+  "sistema_solar": {
+    "centro": "Sol (Estrela)",
+    "idade_estimada": "4.57 bilhões de anos",
+    "planetas": [
+      {
+        "nome": "Mercúrio",
+        "tipo": "Rochoso",
+        "distancia_sol_ua": 0.39,
+        "numero_luas": 0
+      },
+      {
+        "nome": "Vênus",
+        "tipo": "Rochoso",
+        "distancia_sol_ua": 0.72,
+        "numero_luas": 0
+      },
+      {
+        "nome": "Terra",
+        "tipo": "Rochoso",
+        "distancia_sol_ua": 1.0,
+        "numero_luas": 1
+      },
+      {
+        "nome": "Marte",
+        "tipo": "Rochoso",
+        "distancia_sol_ua": 1.52,
+        "numero_luas": 2
+      },
+      {
+        "nome": "Júpiter",
+        "tipo": "Gigante Gasoso",
+        "distancia_sol_ua": 5.20,
+        "numero_luas": 95
+      },
+      {
+        "nome": "Saturno",
+        "tipo": "Gigante Gasoso",
+        "distancia_sol_ua": 9.58,
+        "numero_luas": 146
+      },
+      {
+        "nome": "Urano",
+        "tipo": "Gigante Gelado",
+        "distancia_sol_ua": 19.22,
+        "numero_luas": 28
+      },
+      {
+        "nome": "Netuno",
+        "tipo": "Gigante Gelado",
+        "distancia_sol_ua": 30.05,
+        "numero_luas": 16
+      }
+    ]
+  }
+}
